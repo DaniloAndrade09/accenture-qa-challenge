@@ -1,0 +1,15 @@
+﻿ACCENTURE - QUALITY ENGINEERING CHALLENGE
+
+Teste automatizado de upload de arquivo.
+
+Projeto: accenture-qa-challenge
+Framework: Selenium WebDriver
+Linguagem: Python
+BDD: Behave / Gherkin
+Padrao: Page Object Model
+
+Objetivo:
+Validar o preenchimento e envio do formulario
+Practice Form da plataforma DemoQA.
+
+Arquivo utilizado exclusivamente para testes automatizados.
